@@ -1,4 +1,4 @@
-const {SFS2X} = require("sfs2x-api-defs");
+const SFS2X = require("sfs2x-api-defs");
 
 
 
