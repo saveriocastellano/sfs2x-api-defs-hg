@@ -26,5 +26,7 @@ SFS2X.HypergamingControllerRequest.LOYALTY_CLAIM = 5;
 SFS2X.HypergamingControllerRequest.GAME_LIST = 6;
 SFS2X.HypergamingControllerRequest.GAME_TAGS = 7;
 SFS2X.HypergamingControllerRequest.CREATE_SESSION = 8;
-
+SFS2X.HypergamingControllerRequest.JACKPOTS_CONTRIB = 9;
+SFS2X.HypergamingControllerRequest.JACKPOT_WIN = 10;
+ 
 module.exports = SFS2X;
